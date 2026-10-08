@@ -1,0 +1,21 @@
+.header {
+  color: blue;
+  text-align: center;
+}
+
+.student-profile {
+  border: 2px solid black;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.student-profile button {
+  margin-right: 10px;
+  padding: 8px 15px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+}
